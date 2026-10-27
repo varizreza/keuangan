@@ -1,5 +1,0 @@
-/* Isi API_URL dengan URL Web App Apps Script (yang berakhiran /exec).
-   Contoh: https://script.google.com/macros/s/AKfycb.../exec */
-window.APP_CONFIG = {
-  API_URL: ''
-};
